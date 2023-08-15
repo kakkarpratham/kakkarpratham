@@ -1,7 +1,7 @@
 <h1 align="center">
-<p><img src="https://github.com/kakkarpratham/kakkarpratham/assets/117922914/39c6f372-07dc-41c3-afa6-9da2b224636f"alt="kakkarpratham" /></p>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=45&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=I'm+Pratham+Kakkar!">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=42&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=I'm+Pratham+Kakkar!">
   </a>
   <p><img align="right" src="https://komarev.com/ghpvc/?username=kakkarpratham"alt="kakkarpratham" /></p>
 </h1>
