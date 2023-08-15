@@ -13,11 +13,12 @@
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 # 💫 About Me:
-🔭 I’m currently pursuing my B.Tech(CSE) from DIT University🎓 <br> 🌱 I’m currently learning **JAVA DSA and BackEnd Development** <br> 👨‍💻 All of my projects are available at my [GitHub Repo](https://github.com/kakkarpratham?tab=repositories) <br> 💬 Ask me about **Anything happening in life** <br> 📫 Reach me out **harshagarwal.4404@gmail.com** <br> ⚡ Fun fact **I Travel a Lot nearby Places where I Live**
+🔭 I’m currently pursuing my B.Tech(CSE) from DIT University🎓 <br> 🌱 I’m currently learning **JAVA DSA and FrontEnd Development** <br> 👨‍💻 All of my projects are available at my [GitHub Repo](https://github.com/kakkarpratham?tab=repositories) <br> 💬 Ask me about **Anything happening in life** <br> 📫 Reach me out **prathamkakkar.rdr@gmail.com** <br> ⚡ Fun fact **I Travel a Lot nearby Places where I Live**
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshagarwal_1102/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh4404/) [![Medium](https://img.shields.io/badge/Medium-%2305577D9.svg?logo=Medium&logoColor=white)](https://medium.com/@harshagarwal2225/) [![LeetCode](https://img.shields.io/badge/-LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/agarwal1102/) [![LeetCode](https://img.shields.io/badge/Linktree-%2339E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/agarwal_harsh) [![GFG](https://img.shields.io/badge/GeeksforGeeks-%23298D46.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/agarwal_harsh)
+[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshagarwal_1102/](https://www.instagram.com/prathamkakkar_/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-kakkar-571803288/) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
